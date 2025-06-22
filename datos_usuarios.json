@@ -1,0 +1,62 @@
+[
+  {
+    "nombre": "María",
+    "apellido": "Pérez",
+    "direccion": "Av. Los Olivos 456, Lima",
+    "correo": "maria.perez@gmail.com"
+  },
+  {
+    "nombre": "Juan",
+    "apellido": "Quispe",
+    "direccion": "Jr. Ayacucho 789, Cusco",
+    "correo": "juan.quispe@hotmail.com"
+  },
+  {
+    "nombre": "Lucía",
+    "apellido": "Ramos",
+    "direccion": "Calle Unión 123, Arequipa",
+    "correo": "lucia.ramos@yahoo.com"
+  },
+  {
+    "nombre": "Carlos",
+    "apellido": "Vargas",
+    "direccion": "Mz A Lt 12 Urb. Los Pinos, Trujillo",
+    "correo": "carlos.vargas@outlook.com"
+  },
+  {
+    "nombre": "Diana",
+    "apellido": "Castro",
+    "direccion": "Av. Primavera 321, Piura",
+    "correo": "diana.castro@gmail.com"
+  },
+  {
+    "nombre": "Fernando",
+    "apellido": "Gutiérrez",
+    "direccion": "Calle Lima 100, Puno",
+    "correo": "fernando.gutierrez@gmail.com"
+  },
+  {
+    "nombre": "Ana",
+    "apellido": "Mendoza",
+    "direccion": "Av. América Norte 2345, Trujillo",
+    "correo": "ana.mendoza@gmail.com"
+  },
+  {
+    "nombre": "Diego",
+    "apellido": "Salazar",
+    "direccion": "Jr. Tarapacá 56, Huancayo",
+    "correo": "diego.salazar@hotmail.com"
+  },
+  {
+    "nombre": "Elena",
+    "apellido": "Valverde",
+    "direccion": "Calle San Martín 199, Chiclayo",
+    "correo": "elena.valverde@yahoo.com"
+  },
+  {
+    "nombre": "Miguel",
+    "apellido": "Torres",
+    "direccion": "Av. El Sol 900, Cusco",
+    "correo": "miguel.torres@gmail.com"
+  }
+]
